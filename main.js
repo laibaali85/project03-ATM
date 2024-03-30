@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 // points we have to follow in our project:
 //1) first with the help of inquirer we need to generate a question of asking a pin
